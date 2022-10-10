@@ -1,0 +1,1 @@
+export const URL_API = 'https://curso-native-1c4bf-default-rtdb.firebaseio.com/';
